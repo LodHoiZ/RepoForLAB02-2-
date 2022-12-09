@@ -1,4 +1,5 @@
 
+
 Markdown Cheatsheet<a name="TOP"></a>
 
 
@@ -163,3 +164,10 @@ Emoji:
 
     STUDENT ID : 642115022
     
+
+# INFOMATION #
+
+    NAME : Taninwat Phuttichaiwarangkul 
+
+    STUDENT ID : 642115019
+
